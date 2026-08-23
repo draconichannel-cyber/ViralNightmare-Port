@@ -1,0 +1,37 @@
+{
+  "version": 4,
+  "name": "ViralNightmare.zip",
+  "items": [
+    "ViralNightmare.sh",
+    "ViralNightmare/"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Mega Man X: Viral Nightmare",
+    "porter": [
+      "Alucard"
+    ],
+    "desc": "Mega Man X: Viral Nightmare is a re-imagining of Mega Man X6, by Cat Yard Games.",
+    "desc_md": null,
+    "inst": "",
+    "inst_md": null,
+    "genres": [
+	"action"
+	"adventure"
+	"platformer"
+	],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [
+      "gmloadernext.squashfs"
+    ],
+    "store": [],
+    "availability": "free",
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": ""
+  }
+}
