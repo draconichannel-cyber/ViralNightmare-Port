@@ -23,7 +23,7 @@ echo "GAMEDIR is set to: $GAMEDIR"
 # Exports
 export DATADIR="$GAMEDIR/assets"
 export SAVEDIR="$GAMEDIR/saves"
-export DATAFILE="Portname.port"
+export DATAFILE="ViralNightmare.port"
 
 
 
@@ -81,7 +81,7 @@ prepare_files() {
 }
 
 patch_datafile() {
-    local config="$GAMEDIR/tools/Portname.json"
+    local config="$GAMEDIR/tools/ViralNightmare.json"
 
     "$controlfolder/gmtoolkit.${DEVICE_ARCH}" --check --config "$config" "$DATADIR/data.win"
     case "$?" in
