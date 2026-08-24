@@ -17,7 +17,7 @@ source $controlfolder/control.txt
 get_controls
 
 # Variables
-GAMEDIR="/$directory/ports/portfolder"
+GAMEDIR="/$directory/ports/ViralNightmare"
 
 # CD and set logging
 cd $GAMEDIR
